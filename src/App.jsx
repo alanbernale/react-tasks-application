@@ -1,5 +1,5 @@
-import TaskList from "./Components/TaskList"
-import TaskForm from "./Components/TaskForm"
+import TaskList from "./components/TaskList"
+import TaskForm from "./components/TaskForm"
 import {useEffect, useState} from "react"
 import {tasks as taskArray} from "./data/tasks"
 
